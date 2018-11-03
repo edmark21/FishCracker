@@ -1,0 +1,12 @@
+url = http://m.facebook.com
+action_url = http://m.facebook.com
+url = http://free.facebook.com
+action_url = hhtp:free.facebook.com
+url = http://fb.com
+port = 8080
+action_url = http://fb.com
+url = http://blended.amauonline.com
+action_url = http://blended.amauonline.com
+port = 8080
+url = http://fb.com
+action_url = http://google.com

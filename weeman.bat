@@ -1,0 +1,2 @@
+cd weeman
+weeman.py

@@ -1,0 +1,2 @@
+cd weeman
+pyreadline.exe
