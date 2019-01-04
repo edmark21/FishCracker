@@ -1,6 +1,6 @@
 # FishCracker
 
-https://imgur.com/a/8UqVR8d
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8UqVR8d"><a href="//imgur.com/8UqVR8d"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 best tool for hacking in windows cmd
 
