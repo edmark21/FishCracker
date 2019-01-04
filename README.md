@@ -1,5 +1,5 @@
 # FishCracker
-![Preview](https://raw.githubusercontent.com/edmark21/FishCracker/Screenshot from 2019-01-09 22-32-03.png
+![Preview](https://github.com/edmark21/FishCracker/commit/6ba195359cfb5de2116f8c29e1ffd375464a642e?short_path=4b354cc#diff-4b354ccbc1756d0f4b9dc259f2955a5d)
 
 best tool for hacking in windows cmd
 
