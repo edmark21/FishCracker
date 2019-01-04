@@ -1,6 +1,6 @@
 # FishCracker
 
-![alt tag](https://imgur.com/a/8UqVR8d)
+![alt tag]https://imgur.com/a/8UqVR8d
 
 best tool for hacking in windows cmd
 
