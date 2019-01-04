@@ -1,13 +1,18 @@
 # FishCracker
 ![img](https://i.imgur.com/TOdESs0.png)
 
-best tool for hacking in windows cmd
+Supports:
+windows
+linux
+android(termux)
 
 features:
-
 social engineering attack (Phishing)
+
 Wireles ATTACK (PLDT)
-ngrok
+
+ngrok integrated
+
 Password Attack
 
 
