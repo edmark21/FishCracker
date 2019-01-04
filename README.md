@@ -1,6 +1,9 @@
 # FishCracker
 
-![Image](https://imgur.com/oPsaRhH)
+.. image:: https://imgur.com/a/8UqVR8d
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
 
 best tool for hacking in windows cmd
 
