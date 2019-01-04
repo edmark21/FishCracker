@@ -1,4 +1,7 @@
 # FishCracker
+
+https://imgur.com/a/8UqVR8d
+
 best tool for hacking in windows cmd
 
 features:
@@ -14,7 +17,7 @@ how to run?
 
 1) download and install  python2.7
 
-2) Fow w7 os:
+2) For windows os:
 right click on the computer click properties Advance System Settings Advance>Environment Variables
 SELECT PATH Variable click edit then paste this:  C:\Python27\Scripts;C:\Python27
 
