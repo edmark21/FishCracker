@@ -1,9 +1,5 @@
 # FishCracker
-
-.. image:: https://imgur.com/a/8UqVR8d
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+![Preview](https://raw.githubusercontent.com/edmark21/FishCracker/Screenshot from 2019-01-09 22-32-03.png
 
 best tool for hacking in windows cmd
 
